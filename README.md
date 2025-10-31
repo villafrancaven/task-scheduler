@@ -25,6 +25,8 @@ cd task-scheduler
 ### 2. Copy environment file
 ```bash
 cp .env.example .env
+or
+copy .env.example .env
 ```
 
 ### 3. Run the app
